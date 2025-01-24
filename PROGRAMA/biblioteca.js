@@ -76,7 +76,6 @@ function prestarLibro(id) {
         }
     }
 
-    ///////
     alert("El libro no está disponible");
 }
 
